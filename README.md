@@ -1,2 +1,0 @@
-# Himath
-C# Lab
